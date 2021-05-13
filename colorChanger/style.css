@@ -1,0 +1,32 @@
+*{
+    box-sizing: border-box;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 0px;
+    padding: 0px;
+}
+
+.nav{
+    text-align: center;
+    background-color: white;
+    padding: 40px;
+}
+
+
+.btn{
+    width:120px;
+    margin: 20px;
+    padding: 6px;
+    border: 1px solid white;
+    border-radius:20%;
+    color: white;
+    background-color: black;
+}
+
+.center{
+    display: flex;
+    margin-top: 30vh;
+    flex-direction: column;
+    align-items: center;
+
+    /* text-align: center; */
+}
