@@ -1,0 +1,50 @@
+* {
+  font-family: monospace;
+}
+body{
+    height: 100vh;
+    background:linear-gradient(rgb(212, 164, 164),white,rgb(133, 190, 133));
+    background-repeat: no-repeat;
+}
+
+h2 {
+    color: white;
+  text-align: center;
+  letter-spacing: 8px;
+  font-size: 2rem;
+  padding: 10px;
+}
+
+.center {
+  margin-top: 20vh;
+ 
+}
+
+.currentCount {
+  text-align: center;
+  font-size: 3rem;
+}
+.buttons {
+  display: flex;
+  justify-content: center;
+}
+
+.btn {
+  margin: 20px;
+  padding: 10px 40px 10px 40px;
+  border: 2px solid white;
+  border-radius: 50%;
+  
+  background-color: black;
+  color: white;
+}
+
+
+
+.green {
+  color: green;
+}
+
+.red {
+  color: red;
+}
